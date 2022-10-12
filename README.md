@@ -2,6 +2,11 @@
 A macro that will type a greeting for you.
 
 ## Introduction
+<p align="left">
+    <img src="media/introduction.gif">
+</p>
+
+
 I made this small Python script because I was lazy typing greetings to people on Naver Cafe (the Korean version of Reddit).
 Most Naver Cafe owner makes new member comment greeting another new member before giving them permission to read and post on the Cafe.
 This could sometimes be up to 150 comments before even getting to read the post on Cafe. (I know, it's crazy) So I made this macro to type a greeting for me.
