@@ -1,3 +1,6 @@
+### 📜 Archived Repository
+As my coding interests have evolved, I've chosen to archive this repository to reflect past work.
+
 # greeting-macro
 A macro that will type a greeting for you.
 
